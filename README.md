@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>A stopwatch project developed in ReactJs.</b></br>
-  <span>🔴 <a target="_blank" href="https://timer-reactjs.vercel.app/">DEMO</a></span></br>
+  <span>🟢 <a target="_blank" href="https://timer-reactjs.vercel.app/">LIVE</a></span></br>
   <sub>Made with ❤️ by <a href="https://github.com/fsanntiago">Fabricio Santigo(fsanntiago)</a></sub>
 </p>
 
