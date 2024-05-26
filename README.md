@@ -1,30 +1,99 @@
-# React + TypeScript + Vite
+<p align="center">
+  ![2024-05-2611-18-11-ezgif com-video-to-gif-converter (1)](https://github.com/fsanntiago/timer-reactjs/assets/85093481/eb175663-7b6a-4a3c-b8c2-711275426e69)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+</p>
 
-Currently, two official plugins are available:
+<h1 align="center">⏲️ Timer</h1>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <b>A stopwatch project developed in ReactJs.</b></br>
+  <sub>Made with ❤️ by <a href="https://github.com/fsanntiago">Fabricio Santigo(fsanntiago)</a></sub>
+</p>
 
-## Expanding the ESLint configuration
+<br />
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+![divider](https://ik.imagekit.io/dxznjlotn/divider.png?updatedAt=1716729632707)
 
-- Configure the top-level `parserOptions` property like this:
+## ❯ About
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+Timer is a simple application that allows users to measure time. It can be used to time tasks, work breaks, or any other activity that requires precise time tracking.
+
+
+### Tools
+
+- [React](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- HTML/CS
+
+
+### Features
+
+- **Accurate Timing**: the app allows users to precisely time tasks, whether for work intervals, study sessions, or other activities.
+- **Start, Pause, and Reset**: users can start the timer, pause it, and reset it as needed.
+- **Intuitive Interface**: the user interface is simple and easy to use, providing an enjoyable experience for everyone.
+- **Customization**: users can adjust settings, such as time display format or sound alarms.
+- **Cross-Device Compatibility**: the app is responsive and works well on mobile devices, tablets, and desktops.
+
+
+![divider](https://ik.imagekit.io/dxznjlotn/divider.png?updatedAt=1716729632707)
+
+## ❯ Table of Contents
+
+- [Getting Started](#-getting-started)
+- [License](#-license)
+
+![divider](https://ik.imagekit.io/dxznjlotn/divider.png?updatedAt=1716729632707)
+
+## ❯ Getting Started
+
+### Step 1: Set up the Development Environment
+
+You need to set up your development environment before you can do anything.
+
+Install [Node.js and NPM](https://nodejs.org/en/download/)
+
+- on OSX use [homebrew](http://brew.sh) `brew install node`
+- on Windows use [chocolatey](https://chocolatey.org/) `choco install nodejs`
+
+Install npm globally
+
+```bash
+npm install -g npm
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+### Step 2: Clone Repository
+
+Clone this project.
+
+```bash
+git clone https://github.com/fsanntiago/timer-reactjs.git
+```
+
+![divider](https://ik.imagekit.io/dxznjlotn/divider.png?updatedAt=1716729632707)
+
+
+
+
+### Install
+
+- Go to the project dir using `cd timer-reactjs`
+
+- Install all dependencies with `npm install`
+
+
+
+### Running in dev mode
+
+- Run `npm run dev` to start the dev server.
+- The server address will be displayed to you as `http://localhost:5173`
+
+
+
+
+
+![divider](https://ik.imagekit.io/dxznjlotn/divider.png?updatedAt=1716729632707)
+
+## ❯ License
+
+[MIT](/LICENSE)
