@@ -24,6 +24,7 @@ Timer is a simple application that allows users to measure time. It can be used 
 
 - [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
 - HTML/CSS
 
 
