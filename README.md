@@ -1,9 +1,10 @@
 <p align="center">
-  ![2024-05-2611-18-11-ezgif com-video-to-gif-converter (1)](https://github.com/fsanntiago/timer-reactjs/assets/85093481/eb175663-7b6a-4a3c-b8c2-711275426e69)
-
+  <img src="https://github.com/fsanntiago/timer-reactjs/assets/85093481/eb175663-7b6a-4a3c-b8c2-711275426e69.gif"/>
 </p>
 
+
 <h1 align="center">⏲️ Timer</h1>
+
 
 <p align="center">
   <b>A stopwatch project developed in ReactJs.</b></br>
